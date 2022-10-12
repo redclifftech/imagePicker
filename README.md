@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/redclifftech/imagePicker.svg)](https://jitpack.io/#redclifftech/imagePicker)
+
 > Step 1. Add the JitPack repository to your build file
 
 ```gradle
