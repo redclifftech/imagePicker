@@ -16,5 +16,5 @@ allprojects {
 dependencies {
 	        implementation 'com.github.redclifftech:imagePicker:Tag'
 	}
-	```
+  ```
 
