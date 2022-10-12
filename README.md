@@ -14,7 +14,7 @@ allprojects {
 
 ```gradle
 dependencies {
-	        implementation 'com.github.redclifftech:imagePicker:Tag'
+	        implementation 'com.github.redclifftech:imagePicker:1.0'
 	}
   ```
 
